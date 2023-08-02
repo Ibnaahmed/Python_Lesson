@@ -1,2 +1,2 @@
 # Python_Lesson
-I am learning python and is is my first code in git hub
+I am learning python and it is my first code in git hub
